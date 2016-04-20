@@ -1,0 +1,3 @@
+C:\Users\Games\Documents\RitualGame\GGJ2016\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Games\Documents\Ritual Game 4.26\GGJ2016\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Games\Desktop\Lastest Build\brokenGGJ2016\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
